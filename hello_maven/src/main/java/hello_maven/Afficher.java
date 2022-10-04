@@ -5,7 +5,7 @@ public class Afficher {
 	
 	/**
 	 * 
-	 * Afficher à l'écran hello Maven
+	 * test commit and push
 	 */
 	
 	public static void main(String[] args) {
